@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 from lxml import etree
 import openpyxl
-import ctypes 
 
 num_of_companies = 12969776
 lst = []
